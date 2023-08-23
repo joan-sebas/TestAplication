@@ -1,0 +1,15 @@
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.Repository\bin\Debug\net5.0\TestAplication.Repository.deps.json
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.Repository\bin\Debug\net5.0\TestAplication.Repository.dll
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.Repository\bin\Debug\net5.0\ref\TestAplication.Repository.dll
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.Repository\bin\Debug\net5.0\TestAplication.Repository.pdb
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.Repository\obj\Debug\net5.0\TestAplication.Repository.csproj.AssemblyReference.cache
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.Repository\obj\Debug\net5.0\TestAplication.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.Repository\obj\Debug\net5.0\TestAplication.Repository.AssemblyInfoInputs.cache
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.Repository\obj\Debug\net5.0\TestAplication.Repository.AssemblyInfo.cs
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.Repository\obj\Debug\net5.0\TestAplication.Repository.csproj.CoreCompileInputs.cache
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.Repository\obj\Debug\net5.0\TestAplication.Repository.dll
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.Repository\obj\Debug\net5.0\ref\TestAplication.Repository.dll
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.Repository\obj\Debug\net5.0\TestAplication.Repository.pdb
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.Repository\bin\Debug\net5.0\TestAplication.EntityFramework.dll
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.Repository\bin\Debug\net5.0\TestAplication.EntityFramework.pdb
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.Repository\obj\Debug\net5.0\TestAplication.Repository.csproj.CopyComplete

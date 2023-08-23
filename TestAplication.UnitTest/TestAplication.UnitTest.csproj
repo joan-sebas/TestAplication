@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.9.4" />
+    <PackageReference Include="Moq" Version="4.20.69" />
+    <PackageReference Include="NUnit" Version="3.13.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.17.0" />
+    <PackageReference Include="coverlet.collector" Version="3.0.2" />
+    <PackageReference Include="xunit.extensibility.core" Version="2.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestAplication.EntityFramework\TestAplication.EntityFramework.csproj" />
+    <ProjectReference Include="..\TestAplication.Repository\TestAplication.Repository.csproj" />
+    <ProjectReference Include="..\TestAplication.Tools\TestAplication.Tools.csproj" />
+    <ProjectReference Include="..\TestAplication\TestAplication.csproj" />
+  </ItemGroup>
+
+</Project>

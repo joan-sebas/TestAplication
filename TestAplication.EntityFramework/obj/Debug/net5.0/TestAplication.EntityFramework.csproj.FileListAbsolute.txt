@@ -1,0 +1,15 @@
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.EntityFramework\bin\Debug\net5.0\TestAplication.EntityFramework.deps.json
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.EntityFramework\bin\Debug\net5.0\TestAplication.EntityFramework.runtimeconfig.json
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.EntityFramework\bin\Debug\net5.0\TestAplication.EntityFramework.runtimeconfig.dev.json
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.EntityFramework\bin\Debug\net5.0\TestAplication.EntityFramework.dll
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.EntityFramework\bin\Debug\net5.0\ref\TestAplication.EntityFramework.dll
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.EntityFramework\bin\Debug\net5.0\TestAplication.EntityFramework.pdb
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.EntityFramework\obj\Debug\net5.0\TestAplication.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.EntityFramework\obj\Debug\net5.0\TestAplication.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.EntityFramework\obj\Debug\net5.0\TestAplication.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.EntityFramework\obj\Debug\net5.0\TestAplication.EntityFramework.AssemblyInfo.cs
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.EntityFramework\obj\Debug\net5.0\TestAplication.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.EntityFramework\obj\Debug\net5.0\TestAplication.EntityFramework.dll
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.EntityFramework\obj\Debug\net5.0\ref\TestAplication.EntityFramework.dll
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.EntityFramework\obj\Debug\net5.0\TestAplication.EntityFramework.pdb
+C:\Users\jsgranda\source\repos\TestAplicationSln\TestAplication.EntityFramework\obj\Debug\net5.0\TestAplication.EntityFramework.genruntimeconfig.cache
